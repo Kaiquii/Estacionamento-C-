@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wR14oaxjqlXFQVXjXvefoELzd+mGj8nHPB/vO7h0GwZ2F7ek/pGkuCQyZWKTnk7Xu6eMIUdNRmUufq9ER84wzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaiqu\\OneDrive\\Área de Trabalho\\DesafioFundamentos\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaiqu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\kaiqu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\kaiqu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\kaiqu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
